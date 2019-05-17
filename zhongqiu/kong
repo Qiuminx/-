@@ -58,7 +58,7 @@
 
             
 
-            to {opacity:50}
+            to {opacity:100}
 
             
 
@@ -71,6 +71,7 @@
             
 font-site:75px;
 text-align:center;
+animation: myfirst 10s infinite;
 
             
 
