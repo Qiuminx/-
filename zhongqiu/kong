@@ -54,15 +54,33 @@
 
             
 
-            from {opacity:0}
+            0% {opacity:0}
+            25%{opacity:0}
+            50%{opacity:100}
 
             
 
-            to {opacity:100}
+            100% {opacity:100}
 
             
 
         }
+        @keyframes mysecond{
+
+            
+
+            0% {opacity:0}
+            25%{opacity:0}
+            50%{opacity:0}
+            75%{opacity:100}
+            
+
+            100% {opacity:0}
+
+            
+
+        }
+
 
         
 
@@ -71,12 +89,17 @@
             
 font-site:75px;
 text-align:center;
-animation: myfirst 10s infinite;
+
 
             
 
         }
-
+        #aa{
+        animation: myfirst 10s infinite;
+        }
+        #ss{
+        animation: mysecond 10s infinite;
+        }
 
 
     </style>
@@ -96,11 +119,11 @@ animation: myfirst 10s infinite;
 
 
 
-<h1>所思所想<h1>
+<h1 id=:"aa">所思所想<h1>
 
 
 
-<p>我从来就不是个仪式感很强的人</p>
+<p id="ss">我从来就不是个仪式感很强的人</p>
 
 
 
