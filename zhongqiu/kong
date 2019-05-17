@@ -89,7 +89,7 @@
 <body>
 
 
-<audio src="wav/bgm.wav" controls="controls"autoplay="autoplay">
+<audio src="wav/bgm.wav" "autoplay="autoplay">
 </audio>
 
 
