@@ -89,7 +89,8 @@
 <body>
 
 
-
+<audio src="wav/bgm.wav" controls="controls">
+</audio>
 
 
 
