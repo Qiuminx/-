@@ -28,11 +28,11 @@
 
             
 
-            background-size:100% 100%;
+            background-size:100% 50%;
 
             
 
-            height:300%;
+            height:50%;
 
         }
 
